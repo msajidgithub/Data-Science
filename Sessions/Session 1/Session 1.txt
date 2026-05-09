@@ -1,0 +1,14 @@
+Programming
+
+High Level Programming ( Python, JS, Java, R, C#, C, C++, PHP )
+Low Level Programming ( Assembly Language )
+Machine Language 
+
+Translators:
+1) Compiler ( It translates entire code at once )
+2) Interpreter ( It translates line by line and left to right )
+3) Assembler ( Its is use to translate assembly language )
+
+Syntax : It is a way how u write a code
+
+JawanPakistan@786

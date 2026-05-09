@@ -1,0 +1,26 @@
+Distributive Version Control System (Git)
+
+1) Download and Install git using:
+	git-scm.com
+2) Right Click to Folder and open Git Bash Here
+3) Convert your folder into Repository using:
+	git init
+4) To check the current status of git use:
+	git status
+5) In order to change untrack file into track use:
+	git add -A
+6) To configure git globally use:
+	git config --global user.name "<Your Name>"
+	
+	git config --global user.email "<Your Email>"
+7) To save your work in git use command:
+	git commit -m "<Message>"
+8) Go to GitHub.com
+9) Signup to GitHub.com
+10) Create New Repository
+11) Copy link of repository (https)
+12) Go back to git bash and use command to merge your local repo with remote repo
+	git remote add origin <Link>
+13) To push your code to GitHub use:
+	git push -u origin master
+14) Authorize using GitHub profile
